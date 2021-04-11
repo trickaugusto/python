@@ -9,7 +9,4 @@ d = b + c
 print(a)
 print(b)
 print(c)
-
 print(d)
-
-print "Teste add"
